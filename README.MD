@@ -1,0 +1,1 @@
+.md is the markdown extenstion for text formatting. Github chose to use MD over any other type of text file because it allows users to style the text in different ways (like with bold or italic) and add things like tables. Gihub also has its own type of markdown syntax so it can add extra features.
