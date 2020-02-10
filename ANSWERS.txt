@@ -1,0 +1,13 @@
+cd projects1800
+cd Newmovie
+git init
+git status
+git add app.js
+git add style.css
+git add index.html
+git commit -m "Step 1 commit"
+git log
+git remote add origin https://github.com/axp224/A01030924gitlab.git
+git remote -v
+git push -u origin master
+
